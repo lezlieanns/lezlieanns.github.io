@@ -8,10 +8,11 @@
 <nav>
 <ul>
 <li><a href="/">Home</a></li>
-<li><a href="/About">About</a></li>
-<li><a href="/">Games</a></li>
-<li><a href="/">Mixed Media Projects</a></li>
+<li><a href="/Portfolio">Portfolio</a></li>
 <li><a href="/blog">Blog</a></li>
+<li><a href="/">Community</a></li>
+<li><a href="/">Contact</a></li>
+<li><a href="/">About</a></li>
 </ul>
 </nav>
 <div class="container">
