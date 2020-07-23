@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<div class="home-page">
-      <div class="block">
-<head>
-<h1> Lezlie's VOICE</h1>
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-</head>
-</div>
-  </div>
-
+<html>
 <div class="wrapper"> 
   <header class="site-header">
     <nav>
@@ -21,7 +13,15 @@
       <a href="/">Contact</a>&nbsp;
       </nav>
   </header>
-
+      
+  <div class="home-page">
+      <div class="block">
+<head>
+<h1> Lezlie's VOICE</h1>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+</div>
+      
 <body>
 <div class="container">
 <div class="blurb">
