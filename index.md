@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-<html>
-  <div class="home-page">
+
+<div class="home-page">
       <div class="block">
 <head>
-<title>Lezlie's VOICE</title>
+<h1> Lezlie's VOICE</h1>
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
+</div>
+  </div>
+
 <div class="wrapper"> 
   <header class="site-header">
     <nav>
-      <a href="/"><strong>HOME</strong></a> | 
-      <a href="/">Blog</a>
-      <a href="/">Portfolio</a>
-      <a href="/">Community</a>
-      <a href="/">About</a>
-      <a href="/">Contact</a>
+      <a href="/"><strong>HOME</strong></a>&ensp;
+      <a href="/">Blog</a>&nbsp;
+      <a href="/">Portfolio</a>&nbsp;
+      <a href="/">Community</a>&nbsp;
+      <a href="/">About</a>&nbsp;
+      <a href="/">Contact</a>&nbsp;
       </nav>
   </header>
 
