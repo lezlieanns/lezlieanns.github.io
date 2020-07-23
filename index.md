@@ -12,7 +12,8 @@
       <a href="/">About</a>&nbsp;
       <a href="/">Contact</a>&nbsp;
       </nav>
-  </header>
+  </header><!-- /.site-header -->
+</div><!-- /.wrapper -->
       
   <div class="home-page">
       <div class="block">
@@ -20,7 +21,6 @@
 <h1> Lezlie's VOICE</h1>
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
-</div>
       
 <body>
 <div class="container">
@@ -32,7 +32,8 @@
 <strong><p>Take a look around!</p>
          <p> Keep up with my journey in my email newsletter.</p>
   <a href="/" class="button">Subscribe for more!</a> </strong>
-      </div>
+      </div><!-- /.block -->
+      </div><!-- /.home-page -->
       
 <footer>
 <ul>
